@@ -12,4 +12,4 @@ In het rapport worden meerdere aanbevelingen gedaan voor hoe het ministerie van 
 # Open Source Program Office
 Het eindelijke doel van de open source strategie is dat opensourcewerken een onderdeel wordt van de reguliere werkwijze bij het gebruik en de ontwikkeling van software-oplossingen. Een programmatische aanpak is het meest passend. Als we kijken naar goede voorbeelden uit het buitenland dan zien we dat een OSPO kan helpen om de belangrijkste obstakels weg te nemen.  Een OSPO kan er op bestuurlijk niveau voor zorgen dat de juiste middelen aanwezig zijn maar moet ook vooral praktische hulp bieden, praktische vragen beantwoorden en helpen om bestaande en nieuwe applicaties open te maken.
 
-Deze repo bevat alle [inrichtingstaken](https://github.com/MinBZK/regels.overheid.nl/issues) op de github-organisatie MinBZK voor het Open Source Program Office (OSPO).
+Deze repo bevat alle [inrichtingstaken](https://github.com/MinBZK/Open-Source-Program-Office/issues) op de github-organisatie MinBZK voor het Open Source Program Office (OSPO).
