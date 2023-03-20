@@ -10,7 +10,7 @@ MinBZK projects, departments, and employees using GitHub should follow the guide
 
 - Users have GitHub 2FA authentication turned on.
 - Repository owners ensure that Dependabot and Code scanning alerts are monitored and addressed.
-- Repository owners report new users and users leaving to [Peter Giskes](@petergiskes).
+- Repository owners report new users and users leaving to [Peter Giskes](https://github.com/petergiskes).
 - Repository owners archive their repositories if they become inactive (meaning no activity for over one year, or no activity for two years if the repository is a fork of another repository).
 
 ### For repositories
@@ -34,4 +34,4 @@ MinBZK projects, departments, and employees using GitHub should follow the guide
 
 ## Get in touch
 
-Point of contact for this repository is [Peter Giskes](@petergiskes).
+Point of contact for this repository is [Peter Giskes](https://github.com/petergiskes).
