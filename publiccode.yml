@@ -1,0 +1,43 @@
+ publiccodeYmlVersion: "0.2"
+ 
+ name: MinBZK OSPO
+ url: "https://github.com/MinBZK/Open-Source-Program-Office.git"
+ softwareVersion: "1.0"    # Optional
+ releaseDate: "2023-02-01"
+ platforms:
+   - web
+ 
+categories:
+  - collaboration
+
+developmentStatus: stable
+
+softwareType: "configurationFiles"
+
+description:
+  en:
+    localisedName: Open Source Program Office   # Optional
+    shortDescription: >
+          How MinBZK uses GitHub.
+
+    longDescription: >
+          Guidelines that MinBZK projects, departments, and employees 
+          should comply with when using GitHub.
+
+    features:
+       - Guidelines
+       - Examples
+
+legal:
+  license: Apache-2.0
+
+maintenance:
+  type: "community"
+
+  contacts:
+    - name: Peter Giskes
+
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - en
