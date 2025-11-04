@@ -1,12 +1,12 @@
- publiccodeYmlVersion: "0.2"
- 
- name: MinBZK OSPO
- url: "https://github.com/MinBZK/Open-Source-Program-Office.git"
- softwareVersion: "1.0"    # Optional
- releaseDate: "2023-02-01"
- platforms:
-   - web
- 
+publiccodeYmlVersion: "0"
+
+name: MinBZK OSPO
+url: "https://github.com/MinBZK/Open-Source-Program-Office.git"
+softwareVersion: "1.0" # Optional
+releaseDate: "2023-02-01"
+platforms:
+  - web
+
 categories:
   - collaboration
 
@@ -16,17 +16,20 @@ softwareType: "configurationFiles"
 
 description:
   en:
-    localisedName: Open Source Program Office   # Optional
+    localisedName: Open Source Program Office # Optional
     shortDescription: >
-          How MinBZK uses GitHub.
+      How MinBZK uses GitHub.
 
     longDescription: >
-          Guidelines that MinBZK projects, departments, and employees 
-          should comply with when using GitHub.
+      Guidelines that MinBZK projects, departments, and employees 
+      should comply with when using GitHub.
+
+      This repo contains all provisioning tasks on the github
+      organization MinBZK for the Open Source Program Office (OSPO).
 
     features:
-       - Guidelines
-       - Examples
+      - Guidelines
+      - Examples
 
 legal:
   license: CC0-1.0
